@@ -2,5 +2,6 @@ package Sprint3.tests;
 
 public class Smoke_Test_Suite {
 
-//practice
+//test test test
+
 }
