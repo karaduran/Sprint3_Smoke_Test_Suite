@@ -37,6 +37,8 @@ public class Message_Tab {
         boolean topic_displayed = driver.findElement(By.xpath("//input[@id='POST_TITLE']")).isDisplayed();
 
         Assert.assertTrue(topic_displayed,"topic box is not displayed");
+
+        //new update
     }
 
     @AfterMethod
